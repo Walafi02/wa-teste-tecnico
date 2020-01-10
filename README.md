@@ -4,6 +4,10 @@
 
 <blockquote align="center">“Mude você e todo o resto mudará naturalmente”!</blockquote>
 
-<video width="400" controls>
-  <source src=".github/wa-teste-pratico.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img alt="Frontend" src=".github/wa-teste-pratico.gif" width="100%">
+</p>
+
+<p>
+  <b>Obs.:</b> Ao subir a api foi necessário criar database `waproject`;
+</p>
