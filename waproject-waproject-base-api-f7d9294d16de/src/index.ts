@@ -28,7 +28,7 @@ async function bootstrap(): Promise<void> {
   app.useGlobalFilters(new ExceptionFilter(httpAdapter));
 
   const swaggerOptions = new DocumentBuilder()
-    .setTitle('wa-test')
+    .setTitle('api')
     .setDescription('Wa Project API')
     .setVersion(`1.${VERSION}`)
     .addBearerAuth()
